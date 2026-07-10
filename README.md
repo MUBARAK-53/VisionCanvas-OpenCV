@@ -5,6 +5,14 @@ An interactive **OpenCV + Streamlit** application for real-time image processing
 
 ---
 
+🌐 Live Demo
+
+🚀 Try the application here:
+
+https://visioncanvas-opencv-efmgyb8gg8s6ajxes4stwz.streamlit.app/
+
+---
+
 ## ✨ Features
 
 * 📤 Upload images (PNG, JPG, JPEG, BMP, WEBP)
